@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="informer_db@192.168.2.177" uuid="0d72093c-745c-48fe-9c90-cfeaf3a274be">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://192.168.2.177:3306/informer_db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="8618423502420" uuid="6a52d414-70e3-4ea2-9650-01ec72a4a1f3">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\Administrator\Downloads\informer-master\session\8618423502420.session</jdbc-url>
+    </data-source>
+  </component>
+</project>
